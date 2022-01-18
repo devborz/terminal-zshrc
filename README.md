@@ -1,4 +1,4 @@
 # terminal-zshrc
 
-Theme - Pro
-Font - Monaco 18
+- Theme - Pro
+- Font - Monaco 18
