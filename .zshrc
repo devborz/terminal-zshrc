@@ -55,6 +55,7 @@ alias gb='git branch'
 alias gco='git checkout'
 alias gd='git diff'
 alias log='git log --oneline --graph --decorate --all'
+alias gup='git fetch origin master && git checkout master && git pull --ff-only origin master && git checkout - && git rebase master'
 
 
 # -----------------------------
